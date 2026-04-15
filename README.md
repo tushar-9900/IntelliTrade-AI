@@ -1,4 +1,4 @@
-#  IntelliTrade AI
+#  [IntelliTrade AI](https://intellitrade-ai.streamlit.app/)
 
 ## Stock Price Prediction & Automated Trading Strategy System
 
