@@ -168,11 +168,7 @@ streamlit_app/
 ### Disclaimer
 
   This tool is for educational and research purposes only. Stock trading involves risk, and past performance does no...
+  
+---
 
-### License
-
-MIT License - Feel free to use and modify for your own projects.
-
---
-
-**Built with  using Streamlit and AI**
+**Built with using Streamlit**
